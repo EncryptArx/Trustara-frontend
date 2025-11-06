@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 📌 DeepFake Detection System
 Advanced AI-Powered Detection for Text, Image, Video & Audio DeepFakes
 
@@ -209,12 +208,3 @@ For training new models, refer to:
 - Uploaded files are stored in `static/uploads/`
 - Analysis results are stored in `static/results/`
 
-## License
-
-[Add your license information here]
-
-## Contributors
-
-[Add contributor information here]
-
->>>>>>> 0d727d0 (Initial commit: DeepSecure MVP - Deepfake detection system)
