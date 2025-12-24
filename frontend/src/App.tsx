@@ -47,7 +47,7 @@ export default function App(){
           
           <h1 className="text-6xl md:text-8xl font-black mb-4 gradient-text" 
               style={{letterSpacing: '-0.02em'}}>
-            DeepSecure
+            Trustara
           </h1>
           
           <p className="text-lg md:text-xl text-gray-400 font-light max-w-2xl mx-auto">
